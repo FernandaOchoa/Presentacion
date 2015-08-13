@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HolaPuebla</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hola">Hola Puebla :D</string>
+    <string name="instituto">Instituto Tecnologico de Huauchinango</string>
+    <string name="curso">Curso de Android</string>
+    <string name="fer">Ing. Fernanda Ochoa</string>
+</resources>
